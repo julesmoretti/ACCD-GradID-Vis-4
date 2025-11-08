@@ -6,7 +6,7 @@ void setup() {
 
 void loop() {
   digitalWrite(LED, HIGH); // Turn the LED on
-  delay(1000); // Wait for a second
+  delay(1000); // wait 1 second (1000 miliseconds)
   digitalWrite(LED, LOW); // Turn the LED off
-  delay(1000); // Wait for a second
+  delay(1000); // wait 1 second (1000 miliseconds)
 }
