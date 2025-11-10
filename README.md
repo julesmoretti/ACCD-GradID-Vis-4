@@ -1,12 +1,16 @@
 # ACCD GradID Vis 4 (Library)
-This repo serves as a library of example code used for the Vis4 course.
 
-Feel free to find and use examples in here for your prototype and provide comments to code that may change over time for updates.
+This repository serves as a library of example code for the Vis 4 course.  
+Feel free to explore and use the examples in this repo for your prototypes. Please provide comments for any code that may change over time to facilitate updates.
 
 ## Arduino
-Under the '1_Arduino' folder, you will find a series of examples with diagram on how to wire up, code up and what hardware needed to get your prototype functionality going.
 
-### Useful Hardware to consider Aquiring:
-+ [Arduino UNO R4 WiFi](https://a.co/d/3F1rix2)
-+ [Component Fun Kit](https://a.co/d/dyIsWco)
+In the `1_Arduino` folder, you’ll find a series of examples, including wiring diagrams, code, and hardware requirements to help you get your prototype functioning.
 
+### Useful Hardware to Consider Acquiring:
+- [Arduino UNO R4 WiFi](https://a.co/d/3F1rix2)
+- [Component Fun Kit](https://a.co/d/dyIsWco)
+
+## Contribute Back to This Repo
+
+For details on how to contribute to this repository, please refer to the [CONTRIBUTE.md](./CONTRIBUTE.md) document.
