@@ -9,3 +9,4 @@ This Arduino code should when pressing the button down, light up the built in LE
 + [Push Button](https://a.co/d/dyIsWco)
 + [Breadboard](https://a.co/d/dyIsWco)
 + [Jumper Wires](https://a.co/d/dyIsWco)
++ Resistor 220 ohms, with a 5% tolerance
